@@ -1,0 +1,15 @@
+name: input_keyboard_adaptor
+description: "Set the distance between the input box or adapter bottom and the keyboard when the keyboard pops up. Support iOS、Android."
+version: 0.0.1
+homepage: https://github.com/developerZGB/InputKeyboardAdaptor.git
+
+environment:
+  sdk: ">=2.12.0 <4.0.0"
+dependencies:
+  flutter:
+    sdk: flutter
+
+dev_dependencies:
+  # flutter_test:
+
+flutter:
